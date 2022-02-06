@@ -1,2 +1,2 @@
 # coursera-test
-yaakov chaikin- learn html, css and javascript
+This is a coursera test repository.
